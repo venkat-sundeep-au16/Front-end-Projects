@@ -1,0 +1,207 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    @media screen {
+        max-width: 5769x;
+    }
+    box-sizing: border-box;
+    
+}
+
+.dot{
+    height: 9px;
+  width: 9px;
+  background-color:red;
+  border-radius: 50%;
+  display: inline-block;
+  border-color: white;
+  margin-left: 2px;
+  border-style: outset;
+}
+
+.fluid{
+    background-color: #047BD5;
+    height: 55px;
+}
+
+.flip {
+    width: 75px;
+    display: block;
+    margin-top: 0.8rem;
+    margin-left: 10.5rem;
+}
+
+.plus {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffe500;
+    position: absolute;
+    right: 600px;
+    left: 110px;
+    top: 13px;
+}
+.icon {
+    position: absolute;
+    left: 260px;
+    top: 15px;
+}
+
+.search-bar {
+    position: relative;
+    width: 550px;
+    height: 35px;
+    left: 285px;
+    bottom: 23px;
+    padding-left: 10px;
+}
+
+.search-icon {
+    position: relative;
+    left:235px;
+    bottom: 25px;
+    background-color: white;
+    border-style: hidden;
+}
+
+.Account {
+    position: relative;
+    left: 900px;
+    bottom: 62px;
+    font-weight: bold;
+    color: white;
+}
+
+.more {
+    
+    position: relative;
+    left: 900px;
+    bottom: 62px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.cart {
+    position: relative;
+    left: 925px;
+    bottom: 62px;
+    font-weight: bold;
+    color: white;
+}
+
+.cart-icon {
+    position: relative;
+    left: 1130px;
+    bottom: 95px;
+}
+
+.hr {
+    text-align: center;
+}
+.clock-icon {
+    position: absolute;
+    left: 607px;
+}
+
+.tv {
+    position: absolute;
+    left: 300px;
+    top: -1px;
+}
+.desk {
+    position: absolute;
+    left: 600px;
+    top: -1px;
+}
+
+.key {
+    position: absolute;
+    left: 900px;
+    top: -1px;
+}
+
+
+.conbody {
+    height: 40px;
+    
+}
+.clock2 {
+    position: relative;
+    left: 300px;
+    top: -30px;
+}
+#clocky{
+    position: relative;
+    left: 300px;
+    top: 20px;
+
+}
+
+
+.deal {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 8px
+    ;
+}
+
+.view-btn{
+
+    position: relative;
+    left: 80%;
+    top: -20px;
+}
+
+.box {
+    background-color:white;
+    width: 300px;
+    border: 15px inherit;
+    padding: 50px;
+    margin: 5px;
+}
+
+
+.tv2{
+    width: 8rem;
+    position: absolute;
+    left: 250px;
+}
+
+.desk2{
+    width: 8rem;
+    position: absolute;
+    left:500px;
+}
+
+.key2{
+    width: 8rem;
+    position: absolute;
+    left:750px;
+}
+
+
+.search-left{
+
+    position: relative;
+    left: -50px;
+    top: -135px;
+}
+.icon2 {
+    left: -10px;
+    position: relative;
+}
+
+/*3rd page stylesheet*/
+
+.mobile-box {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    border-color: black;
+}
